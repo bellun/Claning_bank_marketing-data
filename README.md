@@ -1,4 +1,4 @@
-# Claning_bank_marketing-data
+# Cleaning_bank_marketing-data
 Projeto para limpeza de dados
 
 <img width="773" height="505" alt="image" src="https://github.com/user-attachments/assets/9b9990ca-02ed-49be-89a3-a14675a02d53" />
