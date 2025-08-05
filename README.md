@@ -1,6 +1,8 @@
 # Claning_bank_marketing-data
 Projeto para limpeza de dados
 
+<img width="773" height="505" alt="image" src="https://github.com/user-attachments/assets/9b9990ca-02ed-49be-89a3-a14675a02d53" />
+
 Os empréstimos pessoais representam uma das fontes de receita mais estratégicas para o setor bancário. No Reino Unido, por exemplo, uma taxa média de 10%([referência](https://www.experian.com/blogs/ask-experian/whats-a-good-interest-rate-for-a-personal-loan/)) ao ano em empréstimos de 24 meses pode gerar retornos expressivos – especialmente quando consideramos que apenas em setembro de 2022, o volume captado pelos consumidores ultrapassou £1.5([artigo uk finance](https://www.ukfinance.org.uk/system/files/2022-12/Household%20Finance%20Review%202022%20Q3-%20Final.pdf)) bilhão, potencialmente gerando £300 milhões em juros ao final do período.
 
 Neste projeto, trabalhei com dados de marketing de um banco, preparando as informações para análise e armazenamento em banco de dados. O trabalho envolveu:
